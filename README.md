@@ -1,5 +1,5 @@
-<h1 aling="center"> PetLife </h1>
-<p aling="center"> A imaginary veterinary clinic website project, the first project that I made for a course by OneBitCode </p>
+<h1 align="center"> PetLife </h1>
+<p align="center"> A imaginary veterinary clinic website project, the first project that I made for a course by OneBitCode </p>
 
 ## Introduction
 
@@ -10,7 +10,8 @@ This was the very first time that I actually use vscode and studied the basic of
 ### Technologies
 
 ![](/PetLife-project-image-02.png)
-
-HTML5 -> To create the structure of the website.
-CSS3 -> To make the style design of this structure.
-Javascript -> To create this visual effect as you can see in the image above.
+<ul>
+<li> HTML5 -> To create the structure of the website. </li>
+<li> CSS3 -> To make the style design of this structure. </li>
+<li> Javascript -> To create this visual effect as you can see in the image above. </li>
+</ul>
