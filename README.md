@@ -1,5 +1,5 @@
 <h1 align="center"> PetLife </h1>
-<p align="center"> A imaginary veterinary clinic website project, the first project that I made for a course by OneBitCode </p>
+<p align="center"> An imaginary veterinary clinic website project, the first project that I made for a course by OneBitCode </p>
 
 ## Introduction
 
