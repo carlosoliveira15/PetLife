@@ -7,11 +7,3 @@ elementosDuvida.forEach(function (duvida) {
 })
 
 //* function nome(argumento) {Conteúdo da função} */
-
-//? thi iiei
-
-//* eeieue */
-
-//TODO EDGHGKKJ
-
-//! 3GGCHJ NOT
